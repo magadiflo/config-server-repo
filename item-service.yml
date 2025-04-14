@@ -1,0 +1,5 @@
+server:
+  port: 8085
+
+custom:
+  text: item-service.yml en config server con perfil por defecto
