@@ -1,0 +1,4 @@
+server:
+  port: 8007
+custom:
+  text: item-service-prod.yml en config server con perfil prod
